@@ -1,7 +1,7 @@
 # GPAResources
 Continuously updated course profile of SHSID's updated curriculums for the GPA Calculator app
 
-### `./course.gpa`
+### `./presets.plist`
 - This is the current course profile for SHSID's high school, and will be continuously updated
 - Resources (via gh-proxy mirror) is used by the [GPA Calc app](https://apps.apple.com/us/app/gpa-calculator-by-michel/id1540111715)
 - Original app made by [MichelG](https://github.com/michelg10/GPA-Calculator), updated by me (WillUHD)
