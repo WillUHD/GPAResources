@@ -55,7 +55,7 @@
                     <key>subjects</key>
                     <array>
                         <dict>
-                            <key>name</key><string>English</string><key>weight</key><real>6.5</real>
+                            <key>name</key><string>67</string><key>weight</key><real>6.5</real>
                             <key>levels</key><array>
                                 <dict><key>name</key><string>S</string><key>offset</key><real>0.5</real></dict>
                                 <dict><key>name</key><string>S+</string><key>offset</key><real>0.4</real></dict>
@@ -64,7 +64,7 @@
                             </array>
                         </dict>
                         <dict>
-                            <key>name</key><string>Math</string><key>weight</key><real>6.5</real>
+                            <key>name</key><string>677</string><key>weight</key><real>6.5</real>
                             <key>levels</key><array>
                                 <dict><key>name</key><string>S</string><key>offset</key><real>0.5</real></dict>
                                 <dict><key>name</key><string>S+</string><key>offset</key><real>0.35</real></dict>
@@ -72,7 +72,7 @@
                             </array>
                         </dict>
                         <dict>
-                            <key>name</key><string>Chinese</string><key>weight</key><real>5.0</real>
+                            <key>name</key><string>67777</string><key>weight</key><real>5.0</real>
                             <key>levels</key><array>
                                 <dict><key>name</key><string>1-2</string><key>offset</key><real>0.4</real></dict>
                                 <dict><key>name</key><string>3-4</string><key>offset</key><real>0.3</real></dict>
