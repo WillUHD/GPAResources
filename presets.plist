@@ -31,7 +31,7 @@
     <key>catalogName</key>
     <string>SHSID '25-26 Catalog, Winter 2025 Edition v1 by WillUHD</string>
     <key>lastUpdated</key>
-    <string>BROBROBRO, 67 67 67 v67</string>
+    <string>BROBROBRO, 67 v67</string>
     <key>commonScoreMap</key>
     <array>
         <dict><key>percentageName</key><string>88</string><key>letterName</key><string>A-</string><key>baseGPA</key><real>4.2</real></dict>
@@ -49,7 +49,7 @@
                     <key>subjects</key>
                     <array>
                         <dict>
-                            <key>name</key><string>BRO 67</string><key>weight</key><real>6.5</real>
+                            <key>name</key><string>6777777777777777777</string><key>weight</key><real>6.5</real>
                             <key>levels</key><array>
                                 <dict><key>name</key><string>S</string><key>offset</key><real>0.5</real></dict>
                                 <dict><key>name</key><string>S+</string><key>offset</key><real>0.4</real></dict>
@@ -58,7 +58,7 @@
                             </array>
                         </dict>
                         <dict>
-                            <key>name</key><string>67777777</string><key>weight</key><real>6.5</real>
+                            <key>name</key><string>six seven bro</string><key>weight</key><real>6.5</real>
                             <key>levels</key><array>
                                 <dict><key>name</key><string>S</string><key>offset</key><real>0.5</real></dict>
                                 <dict><key>name</key><string>S+</string><key>offset</key><real>0.35</real></dict>
