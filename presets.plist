@@ -37,10 +37,6 @@
         <dict><key>percentageName</key><string>0</string><key>letterName</key><string>F</string><key>baseGPA</key><real>0</real></dict>
         <dict><key>percentageName</key><string>60</string><key>letterName</key><string>C/C-</string><key>baseGPA</key><real>2.6</real></dict>
         <dict><key>percentageName</key><string>68</string><key>letterName</key><string>C+</string><key>baseGPA</key><real>3.0</real></dict>
-        <dict><key>percentageName</key><string>73</string><key>letterName</key><string>B-</string><key>baseGPA</key><real>3.3</real></dict>
-        <dict><key>percentageName</key><string>78</string><key>letterName</key><string>B</string><key>baseGPA</key><real>3.6</real></dict>
-        <dict><key>percentageName</key><string>83</string><key>letterName</key><string>B+</string><key>baseGPA</key><real>3.9</real></dict>
-        <dict><key>percentageName</key><string>88</string><key>letterName</key><string>A-</string><key>baseGPA</key><real>4.2</real></dict>
         <dict><key>percentageName</key><string>93</string><key>letterName</key><string>A/A+</string><key>baseGPA</key><real>4.5</real></dict>
     </array>
     <key>presets</key>
